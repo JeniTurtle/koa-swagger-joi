@@ -7,7 +7,7 @@ const ctx2paramMap = {
   'pathParams': 'path',
   'query': 'query',
   'headers': 'header',
-  'body': 'formData',
+  'body': 'body',
 }
 
 const joiKey = 'jsonSchema'
